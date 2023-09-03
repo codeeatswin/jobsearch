@@ -6,7 +6,7 @@ import Value from './Components/ValueDiv/Value';
 import Footer from './Components/FooterDiv/Footer';
 
 function App() {
-  return <div className='w-[85%] m-auto bg-white'>
+  return <div className='w-[1200px] m-auto bg-white'>
     <NavBar/>
     <Search/>
     <Jobs/>
